@@ -1,5 +1,6 @@
 [package]
 name = "hyper-async-io"
+description = "A simple crate that provides an interface to AsyncRead and AsyncWrite for Hyper's Body"
 authors = ["Andrés F. Quintero <afquinteromoreano@gmail.com>"]
 version = "0.1.0"
 edition = "2021"
